@@ -1,0 +1,4 @@
+0 Recycle
+1 General
+2 Compostable
+3 Blank
